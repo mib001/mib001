@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mib001
 - 👀 I’m interested in financial technology
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me amirbaba8@gmail.com
 
